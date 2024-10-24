@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nitinsharwal
+- 👋 Hi, I’m @Chetan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learner
 
